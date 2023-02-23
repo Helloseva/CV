@@ -24,9 +24,23 @@ Description: A simple calendar application that allows a user to save events for
 
 ## Skills
 
-## Other Skills Me
+•	Languages: JavaScript, CSS3, HTML5, SQL and basic Python
+•	Frameworks, libraries: React, Node, jQuery, Angular, Vue, Bootstrap
+•	Proficient in GitHub
+•	Other experience: AGILE working environment – pair programming, daily stand-ups and retros, planning 2-days sprint, MVP, Trello board and various project design by utilizing diagrams and wireframe
 
-## Professional/Commercial Experiences
+## Professional/Commercial Experience   
+
+Procter and Gamble (Baku, Azerbaijan) – Sales and Business Analyst (2015 – 2017)
+•	Provided accurate financial and sales reports for Caucasus countries, Azerbaijan, and Georgia.
+•	Achieved the highest accuracy in preparing the company's budget and rolling forecast.
+•	Executed business strategy aligned with financial objectives to ensure long-term success
+
+YapiKredi Bank (Baku, Azerbaijan) – Corporate Credit and Risk Analyst	(2013 – 2014)
+•	Analyzed and prepared credit applications over $1.0m for corporate customers
+•	Performed precise financial and risk assessments to mitigate default risks
+•	Achieved highest recoverability from debtors, boosting company’s financial performance and liquidity
+
 
 ## Education
 
