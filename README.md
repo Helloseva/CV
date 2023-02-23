@@ -1,5 +1,5 @@
 <div align="center">
-**SEVDA SEYIDOVA**
+SEVDA SEYIDOVA
 </div>
 
 ## About Me
@@ -44,6 +44,25 @@ YapiKredi Bank (Baku, Azerbaijan) – Corporate Credit and Risk Analyst	(2013 �
 
 ## Education
 
+Bootcamp Certificate by edX & Trilogy, London, UK 	(2022 – 2023)
+16 weeks intensive bootcamp program focused on gaining Front End Web Development skills in HTML5, CSS3, JavaScript, jQuery, React, Node, Bootstrap              
+           
+Programming learning (2019 – 2020)
+- Udacity Front End Web Developer Nanodegree program
+- Udemy course on Web Development Bootcamp by Dr. Angela Yu 
+- freeCodeCamp learning on Responsive Web Design, JavaScript, Front End Development Libraries
+
+Newcastle University Business School, Newcastle, UK	(2014 – 2015)
+MA in International Business Management with Merit – awarded a full merit scholarship		                         
+
+Azerbaijan State University of Economics, Baku, Azerbaijan	(2009 – 2013)
+BSc in World Economy with First Class (Distinction) – awarded a full merit scholarship 
+
+
 ## Spoken Languages
 
+Fluent in English, Turkish, Russian and Azerbaijani (native)
+
 ## Hobbies
+
+Interests: cooking, blogging, travelling to the tropics, and experiencing different cultures.
