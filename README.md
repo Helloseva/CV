@@ -1,7 +1,5 @@
-<div align="center">
-# **SEVDA SEYIDOVA **
+<h2 align="center"><b>SEVDA SEYIDOVA</b></h2>
 
-</div>
 
 ## About Me
 
