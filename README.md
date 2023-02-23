@@ -1,4 +1,7 @@
-                      # SEVDA SEYIDOVA
+<div align="center">
+SEVDA SEYIDOVA
+</div>
+
 Why software development?
 Why me?
 
