@@ -7,6 +7,10 @@ User-Focused Web Developer with Business Management background and proficiency i
 
 ## Notable Personal/Group Projects
 
+[Study-Hub](https://github.com/Helloseva/Study-Hub) (React, Vite, Firebase, Node.js, HTML, CSS, JavaScript, Jquery, Material UI, Bootstrap)
+
+Description: Educational platform to stay current with the latest technologies and learn new skills by keeping up with community updates.
+
 [EcoTraveler](https://github.com/Helloseva/Eco-Travel-Planner) (JavaScript, CSS3, HTML5, jQuery, Bootstrap)
 
 Description: Sustainable travel app using 3rd party APIs to search sustainable travel options, user can calculates the estimated carbon emissions generated from their travel itinerary. User can also search and see sustainable activities such as trails, with maps and additional detailed information.
@@ -19,6 +23,8 @@ Description: A weather dashboard uses OpenWeather API to retrieve data and allow
 [WeeklyPlanner](https://github.com/Helloseva/Challenge7-WeeklyPlanner) (JavaScript, CSS3, HTML5, Bootstrap)
 
 Description: A simple calendar application that allows a user to save events for each hour of the day.
+
+
 
 
 ## Skills
